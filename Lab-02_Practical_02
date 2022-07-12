@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Five Differnt Links</title>
+</head>
+
+<body style="background-color:#000000;">
+    <p style="color:#ffffff;">Five Different Links That Open At Various Parts Of Webpages</p>
+    <p style="color:white;">=> Youtube: <a href="http://www.youtube.com" target="_blank" style="color:white;">Click
+            Here</a></p>
+    <p style="color:white;">=> Google: <a href="http://www.google.com" target="_blank" style="color:white;">Click
+            Here</a></p>
+    <p style="color:white;">=> Microsoft: <a href="http://www.microsoft.com" target="_blank" style="color:white;">Click
+            Here</a></p>
+    <p style="color:white;">=> Apple: <a href="http://www.apple.com" target="_blank" style="color:white;">Click Here</a>
+    </p>
+    <p style="color:white;">=> Samsung: <a href="http://www.samsung.com" target="_blank" style="color:white;">Click
+            Here</a></p>
+</body>
+
+</html>
