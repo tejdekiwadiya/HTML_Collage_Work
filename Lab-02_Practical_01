@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The Best Thing</title>
+</head>
+
+<body style="background-color:#13155f;">
+    <h1 style="color:white;">
+        <center><u>--- The Best Thing ---</u></center>
+    </h1>
+    <p size="3" align="center" style="color:white;"><u>* By Mariana Zapata Summary *</u></p>
+    <p style="background-color:purple; color:azure; font-family:'Times New Roman'; font-size: 0.4cm;">Hadn’t I just told
+        myself to clear the <b><i>damn</b></i> cookies and the
+        history on my computer? <b><i>Yeah</b></i>, I had. I knew I had. It had just
+        been a few weeks ago when the last article had <i><b>popped</b></i> up on
+        my home page, and it had ended up <b>forcing</b> me to <b><i>jump</b></i> on a
+        stationary bike so that I <b><i>wouldn’t</b></i> do something stupid.
+    </p>
+
+    <p style="background-color:forestgreen; color:wheat; font-family:'Freestyle Script';">Except that time, all I had
+        done was give my screen the
+        middle finger and then clicked on a <i><b>different</b></i> article to read…
+        cussing under my breath the whole time</p>
+
+    <p style="background-color:aqua; color:black; font-family:'Gabriola';"><b><i>Unfortunately </i></b>for me, I was
+        <b><i>grumpy, petty, and a little
+                bored,</i></b> and that’s why I followed the link for the first time in a
+        <b><i>while</i></b>, watching my computer screen blink for a second before
+        it led me to a website that in the past I had been on more times
+        than I would ever be willing to admit.
+    </p>
+
+    <p style="background-color:yellow; color:black; font-family:'Harrington';">Months ago. A year ago. Not
+        <b><i>lately</i></b>. Not in a long time.</p>
+</body>
+
+</html>
